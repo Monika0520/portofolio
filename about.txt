@@ -1,0 +1,12 @@
+about you
+	As a basic frontend developer, I have a solid understanding of HTML, CSS, and JavaScript, which are the fundamental building blocks of web development. I may not have extensive experience or expertise in complex frameworks or libraries, but I am capable of creating functional and visually appealing user interfaces for websites and web applications.
+
+When it comes to HTML, I am proficient in structuring web pages using semantic markup. I understand the importance of proper document structure, using appropriate tags to define headings, paragraphs, lists, and other elements. I pay attention to accessibility guidelines, ensuring that the content is easily navigable and understandable by all users.
+
+	In terms of CSS, I can apply styles and layouts to HTML elements, enhancing the appearance and visual presentation of a website. I am comfortable with using CSS selectors, properties, and values to control the positioning, colors, typography, and other aspects of the user interface. While I may not be an expert in advanced CSS techniques, I can create responsive designs that adapt well to different screen sizes and devices.
+
+JavaScript is a crucial part of my skill set as a frontend developer. I have a good grasp of core JavaScript concepts, such as variables, data types, control flow, and functions. I can manipulate the Document Object Model (DOM) to dynamically update the content and behavior of web pages. Although I may not have expertise in complex JavaScript frameworks like React or Angular, I can write basic JavaScript code to handle user interactions, validate forms, and perform simple animations.
+
+	As a basic frontend developer, I am aware of the importance of cross-browser compatibility and strive to write code that works consistently across different browsers and platforms. I also understand the significance of performance optimization and aim to create efficient code that loads quickly and provides a smooth user experience.
+
+While I may not possess the expertise of a seasoned frontend developer, I am eager to learn and expand my skill set. I am open to exploring new frameworks, libraries, and best practices in order to improve my abilities and deliver high-quality user interfaces. With time and experience, I am confident that I can evolve into a proficient and versatile frontend developer.
